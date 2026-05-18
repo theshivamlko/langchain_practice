@@ -32,3 +32,5 @@ huggingface_hub
 langgraph
 langgraph-cli[inmem]
 langchain-core
+streamlit
+tavily-python
