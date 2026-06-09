@@ -37,3 +37,4 @@ streamlit
 tavily-python
 rank-bm25
 langchain-google-vertexai
+pageindex
